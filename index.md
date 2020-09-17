@@ -40,7 +40,8 @@ portfolio_description: My Game Development and Software Projects
 #cta_button: mailto:saragong@usc.edu # a link to an external website or to media
 #cta_button_label: contact # the label on the button
 
-# ---
 I have a 2:1 degree in Games Technology and am just finishing an Msc in Commercial Games Developement and have
 an interest in both gameplay/game engine programming and have skills using C, C++, C#, Java and Python. I have 
 experience using Unity, Unreal Engine, DirectX 11 and 12, Phyre Engine, Android Studio, Blender, Maya, Github and Slack.
+
+---
