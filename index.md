@@ -31,15 +31,15 @@ about_button_label: Github Repo
 
 portfolio: Projects # the heading for your portfolio and title of your YAML file
 portfolio_description: My Game Development and Software Projects
----
+
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-#cta: connect # the heading for your CTA section
-#cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-#cta_button: mailto:saragong@usc.edu # a link to an external website or to media
-#cta_button_label: contact # the label on the button
-
+cta: connect # the heading for your CTA section
+cta_description: Send me an Email! # a description to be desplayed below the heading and above the content
+cta_button: Elliotmartin97@outlook.com # a link to an external website or to media
+cta_button_label: Email # the label on the button
+---
 I have a 2:1 degree in Games Technology and am just finishing an Msc in Commercial Games Developement and have
 an interest in both gameplay/game engine programming and have skills using C, C++, C#, Java and Python. I have 
 experience using Unity, Unreal Engine, DirectX 11 and 12, Phyre Engine, Android Studio, Blender, Maya, Github and Slack.
